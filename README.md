@@ -9,7 +9,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakiya99/colab-rdp/blob/main/guicolab.ipynb)
 
 
-**#requirements**
+##Requirements
 
 01.NGROK Token = https://dashboard.ngrok.com/
 
@@ -23,4 +23,4 @@ https://tenet.dl.sourceforge.net/project/turbovnc/2.2.5/TurboVNC-2.2.5-x64.exe
 
 
 
-IDk orginal owner of this code _credits goes to him_
+IDK original owner of this code _credits goes to him_
