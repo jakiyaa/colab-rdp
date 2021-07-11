@@ -1,6 +1,4 @@
-# colab-rdp
-
-### Linux Debain RDP 12Hours [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakiya99/colab-rdp/blob/main/guicolab.ipynb)
+# Linux Debain RDP 12Hours [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakiya99/colab-rdp/blob/main/guicolab.ipynb)
 
 
 ![Screenshot 2021-06-16 063737](https://user-images.githubusercontent.com/67457538/125187078-751a1400-e24b-11eb-99ba-9281cc178da1.png)
