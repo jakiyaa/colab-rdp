@@ -19,6 +19,7 @@
 Download Link :
 32Bit
 https://tenet.dl.sourceforge.net/project/turbovnc/2.2.5/TurboVNC-2.2.5-x86.exe
+<br>
 64Bit
 https://tenet.dl.sourceforge.net/project/turbovnc/2.2.5/TurboVNC-2.2.5-x64.exe
 
